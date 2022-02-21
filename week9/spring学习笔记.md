@@ -298,3 +298,4 @@ Student.java
 bean就是由IoC容器初始化、装配及管理的对象。
 ![](src/img/641.webp)
 
+
