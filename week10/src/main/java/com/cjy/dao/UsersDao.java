@@ -3,9 +3,11 @@ package com.cjy.dao;
 import com.cjy.domain.Users;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Select;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+@Repository
 public interface UsersDao {
     @Select("select * from users")
     public List<Users> findUsers();
