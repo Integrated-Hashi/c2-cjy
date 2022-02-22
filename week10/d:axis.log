@@ -3,3 +3,8 @@
 
 2022-02-21 15:09:20,102 131    [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@17baae6e: startup date [Mon Feb 21 15:09:20 CST 2022]; root of context hierarchy
 2022-02-21 15:09:20,155 184    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring.xml]
+2022-02-22 14:28:26,421 0      [           main] INFO       org.testng.internal.Utils  - [TestNG] Running:
+  /Users/chen/Library/Caches/JetBrains/IntelliJIdea2021.3/temp-testng-customsuite.xml
+
+2022-02-22 14:28:26,457 36     [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3d0f8e03: startup date [Tue Feb 22 14:28:26 CST 2022]; root of context hierarchy
+2022-02-22 14:28:26,474 53     [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring.xml]
