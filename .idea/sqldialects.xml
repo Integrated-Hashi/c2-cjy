@@ -4,4 +4,7 @@
     <file url="file://$PROJECT_DIR$/week5/src/student.sql" dialect="GenericSQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
+  <component name="SqlResolveMappings">
+    <file url="PROJECT" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;name&quot;:{     &quot;@qname&quot;:&quot;36443edd-f4a8-4be6-b122-beb2a866db44&quot;    },    &quot;group&quot;:{     &quot;@kind&quot;:&quot;schema&quot;,     &quot;node&quot;:{      &quot;name&quot;:{       &quot;@qname&quot;:&quot;mybatis&quot;      }     }    }   }  } }}" />
+  </component>
 </project>
